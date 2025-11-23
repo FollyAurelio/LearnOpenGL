@@ -1,11 +1,11 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/cmake_install.cmake",
-		"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/src/cmake_install.cmake",
-		"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/cmake_install.cmake",
-		"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/cmake_install.cmake",
-		"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/docs/cmake_install.cmake"
+		"/home/pancake/Documents/LearnOpenGL/lib/glfw/cmake_install.cmake",
+		"/home/pancake/Documents/LearnOpenGL/lib/glfw/src/cmake_install.cmake",
+		"/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/cmake_install.cmake",
+		"/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/cmake_install.cmake",
+		"/home/pancake/Documents/LearnOpenGL/lib/glfw/docs/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

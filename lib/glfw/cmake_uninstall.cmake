@@ -1,22 +1,22 @@
 
-if (NOT EXISTS "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/install_manifest.txt\"")
+if (NOT EXISTS "/home/pancake/Documents/LearnOpenGL/lib/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"/home/pancake/Documents/LearnOpenGL/lib/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/install_manifest.txt" files)
+file(READ "/home/pancake/Documents/LearnOpenGL/lib/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})
   message(STATUS "Uninstalling \"$ENV{DESTDIR}${file}\"")
   if (EXISTS "$ENV{DESTDIR}${file}")
-    exec_program("/sbin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
+    exec_program("/usr/sbin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
                  OUTPUT_VARIABLE rm_out
                  RETURN_VALUE rm_retval)
     if (NOT "${rm_retval}" STREQUAL 0)
       MESSAGE(FATAL_ERROR "Problem when removing \"$ENV{DESTDIR}${file}\"")
     endif()
   elseif (IS_SYMLINK "$ENV{DESTDIR}${file}")
-    EXEC_PROGRAM("/sbin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
+    EXEC_PROGRAM("/usr/sbin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
                  OUTPUT_VARIABLE rm_out
                  RETURN_VALUE rm_retval)
     if (NOT "${rm_retval}" STREQUAL 0)

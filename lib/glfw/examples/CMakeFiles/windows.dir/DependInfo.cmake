@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/windows.c" "examples/CMakeFiles/windows.dir/windows.c.o" "gcc" "examples/CMakeFiles/windows.dir/windows.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/windows.c" "examples/CMakeFiles/windows.dir/windows.c.o" "gcc" "examples/CMakeFiles/windows.dir/windows.c.o.d"
   "" "examples/windows" "gcc" "examples/CMakeFiles/windows.dir/link.d"
   )
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/joysticks.c" "tests/CMakeFiles/joysticks.dir/joysticks.c.o" "gcc" "tests/CMakeFiles/joysticks.dir/joysticks.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/joysticks.c" "tests/CMakeFiles/joysticks.dir/joysticks.c.o" "gcc" "tests/CMakeFiles/joysticks.dir/joysticks.c.o.d"
   "" "tests/joysticks" "gcc" "tests/CMakeFiles/joysticks.dir/link.d"
   )
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/window.c" "tests/CMakeFiles/window.dir/window.c.o" "gcc" "tests/CMakeFiles/window.dir/window.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/window.c" "tests/CMakeFiles/window.dir/window.c.o" "gcc" "tests/CMakeFiles/window.dir/window.c.o.d"
   "" "tests/window" "gcc" "tests/CMakeFiles/window.dir/link.d"
   )
 

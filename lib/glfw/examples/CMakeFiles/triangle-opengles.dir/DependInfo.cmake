@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/triangle-opengles.c" "examples/CMakeFiles/triangle-opengles.dir/triangle-opengles.c.o" "gcc" "examples/CMakeFiles/triangle-opengles.dir/triangle-opengles.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/triangle-opengles.c" "examples/CMakeFiles/triangle-opengles.dir/triangle-opengles.c.o" "gcc" "examples/CMakeFiles/triangle-opengles.dir/triangle-opengles.c.o.d"
   "" "examples/triangle-opengles" "gcc" "examples/CMakeFiles/triangle-opengles.dir/link.d"
   )
 

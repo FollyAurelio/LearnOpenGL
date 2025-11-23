@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/triangle-vulkan.c" "tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.o" "gcc" "tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/triangle-vulkan.c" "tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.o" "gcc" "tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.o.d"
   "" "tests/triangle-vulkan" "gcc" "tests/CMakeFiles/triangle-vulkan.dir/link.d"
   )
 

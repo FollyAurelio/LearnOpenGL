@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/tinycthread.c" "tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.o" "gcc" "tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/threads.c" "tests/CMakeFiles/threads.dir/threads.c.o" "gcc" "tests/CMakeFiles/threads.dir/threads.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/tinycthread.c" "tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.o" "gcc" "tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/threads.c" "tests/CMakeFiles/threads.dir/threads.c.o" "gcc" "tests/CMakeFiles/threads.dir/threads.c.o.d"
   "" "tests/threads" "gcc" "tests/CMakeFiles/threads.dir/link.d"
   )
 

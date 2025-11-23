@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/wave.c" "examples/CMakeFiles/wave.dir/wave.c.o" "gcc" "examples/CMakeFiles/wave.dir/wave.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/wave.c" "examples/CMakeFiles/wave.dir/wave.c.o" "gcc" "examples/CMakeFiles/wave.dir/wave.c.o.d"
   "" "examples/wave" "gcc" "examples/CMakeFiles/wave.dir/link.d"
   )
 

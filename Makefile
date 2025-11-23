@@ -1,7 +1,7 @@
 UNAME_S = $(shell uname -s)
 CXX = g++
 CC = gcc
-CXXFLAGS = -g
+CXXFLAGS = -g -std=c++17
 CXXFLAGS += -Ilib/glfw/include -Ilib/glad/include -Ilib -Wall
 LDFLAGS = lib/glad/src/glad.o lib/glfw/src/libglfw3.a
 
@@ -13,7 +13,7 @@ endif
 ifeq ($(UNAME_S), Linux)
 	LDFLAGS += -ldl -lpthread
 endif
-SRC = $(wildcard src/**/*.cpp) $(wildcard src/*.cpp) 
+SRC = $(wildcard src1/**/*.cpp) $(wildcard src1/*.cpp) 
 OBJ = $(SRC:.cpp=.o)
 BIN = bin
 

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/getopt.c" "tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/clipboard.c" "tests/CMakeFiles/clipboard.dir/clipboard.c.o" "gcc" "tests/CMakeFiles/clipboard.dir/clipboard.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/getopt.c" "tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/clipboard.c" "tests/CMakeFiles/clipboard.dir/clipboard.c.o" "gcc" "tests/CMakeFiles/clipboard.dir/clipboard.c.o.d"
   "" "tests/clipboard" "gcc" "tests/CMakeFiles/clipboard.dir/link.d"
   )
 

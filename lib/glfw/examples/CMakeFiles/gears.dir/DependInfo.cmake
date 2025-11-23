@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/gears.c" "examples/CMakeFiles/gears.dir/gears.c.o" "gcc" "examples/CMakeFiles/gears.dir/gears.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/gears.c" "examples/CMakeFiles/gears.dir/gears.c.o" "gcc" "examples/CMakeFiles/gears.dir/gears.c.o.d"
   "" "examples/gears" "gcc" "examples/CMakeFiles/gears.dir/link.d"
   )
 

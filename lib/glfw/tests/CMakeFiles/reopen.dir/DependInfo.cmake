@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/reopen.c" "tests/CMakeFiles/reopen.dir/reopen.c.o" "gcc" "tests/CMakeFiles/reopen.dir/reopen.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/reopen.c" "tests/CMakeFiles/reopen.dir/reopen.c.o" "gcc" "tests/CMakeFiles/reopen.dir/reopen.c.o.d"
   "" "tests/reopen" "gcc" "tests/CMakeFiles/reopen.dir/link.d"
   )
 

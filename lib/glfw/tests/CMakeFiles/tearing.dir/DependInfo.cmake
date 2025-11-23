@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/tearing.c" "tests/CMakeFiles/tearing.dir/tearing.c.o" "gcc" "tests/CMakeFiles/tearing.dir/tearing.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/tearing.c" "tests/CMakeFiles/tearing.dir/tearing.c.o" "gcc" "tests/CMakeFiles/tearing.dir/tearing.c.o.d"
   "" "tests/tearing" "gcc" "tests/CMakeFiles/tearing.dir/link.d"
   )
 

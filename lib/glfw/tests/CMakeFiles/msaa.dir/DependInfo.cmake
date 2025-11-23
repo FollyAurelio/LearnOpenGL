@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/getopt.c" "tests/CMakeFiles/msaa.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/msaa.dir/__/deps/getopt.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/msaa.c" "tests/CMakeFiles/msaa.dir/msaa.c.o" "gcc" "tests/CMakeFiles/msaa.dir/msaa.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/getopt.c" "tests/CMakeFiles/msaa.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/msaa.dir/__/deps/getopt.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/msaa.c" "tests/CMakeFiles/msaa.dir/msaa.c.o" "gcc" "tests/CMakeFiles/msaa.dir/msaa.c.o.d"
   "" "tests/msaa" "gcc" "tests/CMakeFiles/msaa.dir/link.d"
   )
 

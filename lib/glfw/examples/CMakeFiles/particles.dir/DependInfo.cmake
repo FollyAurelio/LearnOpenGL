@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/getopt.c" "examples/CMakeFiles/particles.dir/__/deps/getopt.c.o" "gcc" "examples/CMakeFiles/particles.dir/__/deps/getopt.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/tinycthread.c" "examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o" "gcc" "examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/examples/particles.c" "examples/CMakeFiles/particles.dir/particles.c.o" "gcc" "examples/CMakeFiles/particles.dir/particles.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/getopt.c" "examples/CMakeFiles/particles.dir/__/deps/getopt.c.o" "gcc" "examples/CMakeFiles/particles.dir/__/deps/getopt.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/tinycthread.c" "examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o" "gcc" "examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/examples/particles.c" "examples/CMakeFiles/particles.dir/particles.c.o" "gcc" "examples/CMakeFiles/particles.dir/particles.c.o.d"
   "" "examples/particles" "gcc" "examples/CMakeFiles/particles.dir/link.d"
   )
 

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/deps/getopt.c" "tests/CMakeFiles/iconify.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/iconify.dir/__/deps/getopt.c.o.d"
-  "/home/pancake/Documents/SimpleVoxelEngine/lib/glfw/tests/iconify.c" "tests/CMakeFiles/iconify.dir/iconify.c.o" "gcc" "tests/CMakeFiles/iconify.dir/iconify.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/deps/getopt.c" "tests/CMakeFiles/iconify.dir/__/deps/getopt.c.o" "gcc" "tests/CMakeFiles/iconify.dir/__/deps/getopt.c.o.d"
+  "/home/pancake/Documents/LearnOpenGL/lib/glfw/tests/iconify.c" "tests/CMakeFiles/iconify.dir/iconify.c.o" "gcc" "tests/CMakeFiles/iconify.dir/iconify.c.o.d"
   "" "tests/iconify" "gcc" "tests/CMakeFiles/iconify.dir/link.d"
   )
 
